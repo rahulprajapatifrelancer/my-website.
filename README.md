@@ -1,16 +1,16 @@
 # my-website.
 
-**1.📌 Project Title / Headline**
+### 1.📌 Project Title / Headline
 
 Rahul Prajapati – AI Journalist & Data Storyteller
 
 
-2.📝 Short Description / Purpose
+### 2.📝 Short Description / Purpose
 
 A personal branding and portfolio website designed to showcase Rahul’s journey from mining data analytics to managing reality TV cameras, now reimagined as an AI-driven content strategist and storyteller. The site serves as both a professional hub and an interactive demo space, highlighting services, roadmaps, and creative experiments with AI.
 
 
-3.⚙️ Tech Stack
+### 3.⚙️ Tech Stack
 
 > Frontend: React + TypeScript (with components like Hero, About, Services, Roadmap, Contact)
 
@@ -23,7 +23,7 @@ A personal branding and portfolio website designed to showcase Rahul’s journey
 
 
 
-4.📊 Data Source
+### 4.📊 Data Source
 
 > Personal service roadmap documents (uploaded PDFs)
 
@@ -33,7 +33,7 @@ A personal branding and portfolio website designed to showcase Rahul’s journey
 
 
 
-5.🌟 Features / Highlights
+### 5.🌟 Features / Highlights
 
 Smooth scrolling navigation with animated transitions between sections
 Dark theme with blue & yellow accents (matching personal branding)
@@ -45,7 +45,7 @@ Responsive design with text alignment fixes across devices
 
 
 
-6.📸 Screenshots / Demos
+### 6.📸 Screenshots / Demos
 
 > Hero Section: Bold headline with Rahul’s branding theme
 > About Section: Storytelling narrative blending unconventional career pivots
@@ -53,3 +53,11 @@ Responsive design with text alignment fixes across devices
 > Roadmap Section: Timeline-style structured delivery process
 
 > Chatbot Demo: Gemini-powered assistant embedded for live interaction
+
+### Screenshots / Demos
+Show what the dashboard looks like. 
+Example: ![Dashboard Preview](https://github.com/rahulprajapatifrelancer/my-website./blob/main/Screenshot%202025-12-02%20222131.png)
+ ![Dashboard Preview](https://github.com/rahulprajapatifrelancer/my-website./blob/main/Screenshot%202025-12-02%20225344.png)
+ ![Dashboard Preview](https://github.com/rahulprajapatifrelancer/my-website./blob/main/Screenshot%202025-12-02%20225403.png)
+ ![Dashboard Preview](https://github.com/rahulprajapatifrelancer/my-website./blob/main/Screenshot%202025-12-02%20225418.png)
+
